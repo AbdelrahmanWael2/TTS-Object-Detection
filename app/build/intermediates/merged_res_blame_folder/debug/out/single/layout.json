@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\Android\\mediapipe-main\\examples\\object_detection\\android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
